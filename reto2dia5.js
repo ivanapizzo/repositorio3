@@ -1,15 +1,6 @@
 // reto 2
 
-function Suma (num1 = 0, num2){
-    let sum;
-sum = num1 + num2;
-console.log("Suma = ", sum)
-} 
 
-// num1 = 23;
-// num2 = 20;
-
-Suma(4, 8);
 
 // sum = num1 + num2;
 // subs = num1 - num2;
